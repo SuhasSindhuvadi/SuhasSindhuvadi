@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Technical Trainer<br><br>🌱 I’m currently learning React and Spring Boot<br><br>🤝 I’m looking for help with React,Java Script,Java and Spring Boot<br><br>💬 Ask me about HTML,CSS,JS,BOOTSTRAP,SPRING BOOT(BASICS) AND REACT JS <br><br>📫 How to reach me suhassj101@gmail.com<br>
+🔭 I’m currently working as Junior Consultent<br><br>🔭 I haver worked as Java Full Stack Trainer <br><br>🌱 I’m currently learning React and Spring Boot<br><br>🤝 I’m looking for help with React,Java Script,Java and Spring Boot<br><br>💬 Ask me about HTML,CSS,JS,BOOTSTRAP,SPRING BOOT(BASICS) AND REACT JS <br><br>📫 How to reach me suhassj101@gmail.com<br>
 
 
 ## 🌐 Socials:
