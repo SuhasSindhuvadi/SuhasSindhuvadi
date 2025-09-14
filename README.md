@@ -1,12 +1,12 @@
-💫 About Me:
-
-🔭 I’m currently working as a Junior Consultant
-📚 Previously worked as a Java Full Stack Trainer
-🌱 I’m currently learning React and Spring Boot
-🤝 I’m looking for support and collaboration in React, JavaScript, Java, and Spring Boot
-💬 Feel free to ask me about HTML, CSS, JavaScript, Bootstrap, Spring Boot (Basics), and React JS
-📫 You can reach me at: suhassj101@gmail.com
+# 💫 About Me:
+🔭 I’m currently working as Junior Consultant<br><br>
+🔭 I have worked as Java Full Stack Trainer<br><br>
+🌱 I’m currently learning React and Spring Boot<br><br>
+🤝 I’m looking for help with React, JavaScript, Java and Spring Boot<br><br>
+💬 Ask me about HTML, CSS, JS, Bootstrap, Spring Boot (Basics) and React JS<br><br>
+📫 How to reach me: suhassj101@gmail.com<br><br>
 🏅 Oracle Certified Application Integration Professional
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suhas_sindhuvadhi/) 
